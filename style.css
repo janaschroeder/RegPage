@@ -1,0 +1,25 @@
+body {
+background-color: light gray;
+font-family: Arial, Helvetica, sans-serif ;
+font-size: 62.5% ;
+}
+h1 {
+text-align: center ;
+font-size: 2.4rem ;
+background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet) ;
+                    }
+form {
+    margins: auto;
+    width: 75%;
+padding: 70px 0;    
+font-size: 2rem;
+}
+                    .cs-classes td2 {
+    padding: 20px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
